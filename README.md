@@ -13,11 +13,11 @@ programming languages.
 
 A bit more about me:
 
-- 👨‍💻 I'm currently working at [Mercedes-Benz.io](https://www.mercedes-benz.io/)
+- 👨‍💻 I'm currently working at [Mercedes-Benz.io](https://www.mercedes-benz.io/) as a Backend Developer
 - 💚 I'm passionate about technology and to know how things work
 - 💬 I'm passionate about problem solving and like good challenges
 - 🚶 I like to walk and visit nice places
 - ☀️ Sunsets are a thing for me (an opacarophile over here)
 - 🤖 Electronics, Robotics and Automation are one of my interests
-- 🎧 Love to ear a good beat because we can't leave without it
+- 🎧 Love to ear a good beat because we can't live without it
 - 📄 Check out my resume [here](https://tvcsantos.github.io)
